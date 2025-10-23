@@ -1,1 +1,1 @@
-https://gregarious-choux-e38f7f.netlify.app/
+usefetch-hook.netlify.app
